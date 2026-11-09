@@ -33,7 +33,7 @@
         102191575,
         85632675,
         85670409,
-        1091907795
+        1360667251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +45,7 @@
         {
             "continent_id":102191575,
             "country_id":85632675,
-            "county_id":1091907795,
+            "county_id":1360667251,
             "locality_id":1225818609,
             "region_id":85670409
         }
@@ -53,7 +53,7 @@
     "wof:id":1225818609,
     "wof:lastmodified":1537618987,
     "wof:name":"La Silviana",
-    "wof:parent_id":1091907795,
+    "wof:parent_id":1360667251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],

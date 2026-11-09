@@ -135,7 +135,7 @@
         102191575,
         85632675,
         85670409,
-        1091907795
+        1360667253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,7 +147,7 @@
         {
             "continent_id":102191575,
             "country_id":85632675,
-            "county_id":1091907795,
+            "county_id":1360667253,
             "locality_id":1293887683,
             "region_id":85670409
         }
@@ -155,7 +155,7 @@
     "wof:id":1293887683,
     "wof:lastmodified":1636504764,
     "wof:name":"Santa Rosa",
-    "wof:parent_id":1091907795,
+    "wof:parent_id":1360667253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],

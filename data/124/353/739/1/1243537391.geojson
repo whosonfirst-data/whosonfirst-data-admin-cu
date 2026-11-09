@@ -96,7 +96,7 @@
         102191575,
         85632675,
         85670409,
-        1091907795
+        1360667251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +108,7 @@
         {
             "continent_id":102191575,
             "country_id":85632675,
-            "county_id":1091907795,
+            "county_id":1360667251,
             "locality_id":1243537391,
             "region_id":85670409
         }
@@ -116,7 +116,7 @@
     "wof:id":1243537391,
     "wof:lastmodified":1564328157,
     "wof:name":"Amelia",
-    "wof:parent_id":1091907795,
+    "wof:parent_id":1360667251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cu",
     "wof:superseded_by":[],
