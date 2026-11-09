@@ -51,7 +51,7 @@
         "wk:page":"Agramonte_%28Jag%C3%BCey_Grande%29"
     },
     "wof:country":"CU",
-    "wof:geomhash":"18cd8bf873934cc49b870e44a16b0a0a",
+    "wof:geomhash":"c6e516b6701602edab6343315fe35b43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -81.11610999999998,
     22.6768
 ],
-  "geometry": {"coordinates":[-81.11610999999998,22.6768],"type":"Point"}
+  "geometry": {"coordinates":[-81.11611,22.6768],"type":"Point"}
 }

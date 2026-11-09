@@ -70,7 +70,7 @@
         "wk:page":"Guam%C3%A1,_Cuba"
     },
     "wof:country":"CU",
-    "wof:geomhash":"c7966ae24e5b32ff2645a9bd5fe6ad86",
+    "wof:geomhash":"51cc9526a74f986f7d38cef9787b6bf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -96,5 +96,5 @@
     -79.93028000000002,
     22.56833
 ],
-  "geometry": {"coordinates":[-79.93028000000002,22.56833],"type":"Point"}
+  "geometry": {"coordinates":[-79.93028,22.56833],"type":"Point"}
 }

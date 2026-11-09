@@ -44,7 +44,7 @@
         "wk:page":"Cabezas_(Uni%C3%B3n_de_Reyes)"
     },
     "wof:country":"CU",
-    "wof:geomhash":"3f1740385ca6e4f2aef01838a382ce29",
+    "wof:geomhash":"f58a052030e8bd844e5adb4a56a9bd83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,5 +70,5 @@
     -81.67808000000002,
     22.84189
 ],
-  "geometry": {"coordinates":[-81.67808000000002,22.84189],"type":"Point"}
+  "geometry": {"coordinates":[-81.67808,22.84189],"type":"Point"}
 }

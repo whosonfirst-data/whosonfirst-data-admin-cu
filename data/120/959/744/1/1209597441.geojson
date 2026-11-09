@@ -38,7 +38,7 @@
         "wk:page":"Jibacoa_%28Manicaragua%29"
     },
     "wof:country":"CU",
-    "wof:geomhash":"cfcd77ac78d6eabd4c04a73807b79a95",
+    "wof:geomhash":"e3e0d9e02430c057fb133f82b50af1ed",
     "wof:hierarchy":[
         {
             "country_id":85632675,
@@ -61,5 +61,5 @@
     -79.98879000000002,
     22.01802
 ],
-  "geometry": {"coordinates":[-79.98879000000002,22.01802],"type":"Point"}
+  "geometry": {"coordinates":[-79.98879,22.01802],"type":"Point"}
 }

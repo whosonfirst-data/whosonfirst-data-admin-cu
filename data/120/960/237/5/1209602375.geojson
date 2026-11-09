@@ -42,7 +42,7 @@
         "wk:page":"Cayo_Mamb%C3%AD"
     },
     "wof:country":"CU",
-    "wof:geomhash":"a0dea49d34d3ff940342fb2f795ce9dc",
+    "wof:geomhash":"6afc17ab0eda633183b41762aea03f27",
     "wof:hierarchy":[
         {
             "country_id":85632675,
@@ -65,5 +65,5 @@
     -75.26881999999998,
     20.66381
 ],
-  "geometry": {"coordinates":[-75.26881999999998,20.66381],"type":"Point"}
+  "geometry": {"coordinates":[-75.26882,20.66381],"type":"Point"}
 }

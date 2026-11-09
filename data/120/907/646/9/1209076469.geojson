@@ -38,7 +38,7 @@
         "wk:page":"Mayar%C3%AD_Arriba"
     },
     "wof:country":"CU",
-    "wof:geomhash":"a004db1305b3d2f229d97e913f45722d",
+    "wof:geomhash":"d8016031941fc28b70048892d3817311",
     "wof:hierarchy":[
         {
             "country_id":85632675,
@@ -61,5 +61,5 @@
     -75.53201999999997,
     20.41548
 ],
-  "geometry": {"coordinates":[-75.53201999999997,20.41548],"type":"Point"}
+  "geometry": {"coordinates":[-75.53202,20.41548],"type":"Point"}
 }

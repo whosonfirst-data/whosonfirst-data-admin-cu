@@ -40,7 +40,7 @@
         "gn:id":3533814
     },
     "wof:country":"CU",
-    "wof:geomhash":"60dfd2d61648213f06b1b8dece40787c",
+    "wof:geomhash":"0cdab88898ba52dab6c0e59fee889056",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -75.06836,
     20.65317000000001
 ],
-  "geometry": {"coordinates":[-75.06836,20.65317000000001],"type":"Point"}
+  "geometry": {"coordinates":[-75.06836,20.65317],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"M%C3%A1ximo_G%C3%B3mez%2C_Cuba"
     },
     "wof:country":"CU",
-    "wof:geomhash":"57fe2ae6304796725c7727f19617667a",
+    "wof:geomhash":"73738140fafecfcad656da6b5935afea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -81.03289000000002,
     22.90182
 ],
-  "geometry": {"coordinates":[-81.03289000000002,22.90182],"type":"Point"}
+  "geometry": {"coordinates":[-81.03289,22.90182],"type":"Point"}
 }

@@ -41,7 +41,7 @@
         "wk:page":"Playa_Santa_Luc%C3%ADa"
     },
     "wof:country":"CU",
-    "wof:geomhash":"b3f9cfb59c42f177ce5afcf5ebc2159d",
+    "wof:geomhash":"1a6f751340eb4116811beb107dac5fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -77.03889000000002,
     21.55083
 ],
-  "geometry": {"coordinates":[-77.03889000000002,21.55083],"type":"Point"}
+  "geometry": {"coordinates":[-77.03889,21.55083],"type":"Point"}
 }

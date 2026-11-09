@@ -42,7 +42,7 @@
         "wk:page":"Zulueta_%28Remedios%29"
     },
     "wof:country":"CU",
-    "wof:geomhash":"df75d076e6475a14b80d192740f09081",
+    "wof:geomhash":"900125fa4f6c5a835660f33b207f865a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -79.56884000000002,
     22.36747
 ],
-  "geometry": {"coordinates":[-79.56884000000002,22.36747],"type":"Point"}
+  "geometry": {"coordinates":[-79.56884,22.36747],"type":"Point"}
 }

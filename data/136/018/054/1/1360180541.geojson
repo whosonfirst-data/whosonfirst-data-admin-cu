@@ -41,7 +41,7 @@
         "wk:page":"Nibuj%C3%B3n"
     },
     "wof:country":"CU",
-    "wof:geomhash":"2d6e3ef4c824bb52586c2182d1e9dbcf",
+    "wof:geomhash":"dea8581142e9e53d0b750a6552b1c9b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -74.64988000000002,
     20.50372
 ],
-  "geometry": {"coordinates":[-74.64988000000002,20.50372],"type":"Point"}
+  "geometry": {"coordinates":[-74.64988,20.50372],"type":"Point"}
 }

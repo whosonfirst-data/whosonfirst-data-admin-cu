@@ -41,7 +41,7 @@
         "wk:page":"Cruce_de_los_Ba%C3%B1os"
     },
     "wof:country":"CU",
-    "wof:geomhash":"3e004c2aa18b8cd924607d061e4856ed",
+    "wof:geomhash":"8264f5e9dce3eca4db1d3a2d74c43c3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -76.25851999999998,
     20.14915
 ],
-  "geometry": {"coordinates":[-76.25851999999998,20.14915],"type":"Point"}
+  "geometry": {"coordinates":[-76.25852,20.14915],"type":"Point"}
 }

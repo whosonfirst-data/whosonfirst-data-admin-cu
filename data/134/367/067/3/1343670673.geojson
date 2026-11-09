@@ -44,7 +44,7 @@
         "wk:page":"Santa_Mar%C3%ADa_del_Mar%2C_Havana"
     },
     "wof:country":"CU",
-    "wof:geomhash":"2691c6f3c974b9767670ed8d67bcf8f3",
+    "wof:geomhash":"1b5e2b2c73ff7b5ca17779a9f82c6007",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,5 +70,5 @@
     -82.19393000000002,
     23.17334
 ],
-  "geometry": {"coordinates":[-82.19393000000002,23.17334],"type":"Point"}
+  "geometry": {"coordinates":[-82.19393,23.17334],"type":"Point"}
 }

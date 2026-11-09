@@ -42,7 +42,7 @@
         "wk:page":"Cayamo"
     },
     "wof:country":"CU",
-    "wof:geomhash":"1a3f82e2ad60fdd38fe1ea08b470f2f9",
+    "wof:geomhash":"354b27c217da7ec7830c1d4438895cb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -75.22399999999998,
     20.01721
 ],
-  "geometry": {"coordinates":[-75.22399999999998,20.01721],"type":"Point"}
+  "geometry": {"coordinates":[-75.224,20.01721],"type":"Point"}
 }

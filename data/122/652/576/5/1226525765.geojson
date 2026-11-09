@@ -78,7 +78,7 @@
         "wk:page":"La_Sierpe%2C_Cuba"
     },
     "wof:country":"CU",
-    "wof:geomhash":"7b4dd02e21c76ca09a941520cacc80b7",
+    "wof:geomhash":"feaf0edc9878a02cbaa999be63e872ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,5 +106,5 @@
     -79.26831999999997,
     21.77241
 ],
-  "geometry": {"coordinates":[-79.26831999999997,21.77241],"type":"Point"}
+  "geometry": {"coordinates":[-79.26832,21.77241],"type":"Point"}
 }

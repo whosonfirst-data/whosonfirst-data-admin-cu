@@ -141,5 +141,5 @@
     -75.65,
     20.15
 ],
-  "geometry": {"coordinates":[-75.65000000000001,20.15],"type":"Point"}
+  "geometry": {"coordinates":[-75.65,20.15],"type":"Point"}
 }

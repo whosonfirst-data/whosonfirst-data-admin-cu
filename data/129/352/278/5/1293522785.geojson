@@ -65,7 +65,7 @@
         "wk:page":"Presidio_Modelo"
     },
     "wof:country":"CU",
-    "wof:geomhash":"3a50094a83d7964f389f78b09d56df5b",
+    "wof:geomhash":"fc8585928f08813b4795737e7ea65895",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -91,5 +91,5 @@
     -82.76666999999998,
     21.88333
 ],
-  "geometry": {"coordinates":[-82.76666999999998,21.88333],"type":"Point"}
+  "geometry": {"coordinates":[-82.76667,21.88333],"type":"Point"}
 }

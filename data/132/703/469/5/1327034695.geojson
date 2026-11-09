@@ -68,7 +68,7 @@
         "wk:page":"Najasa"
     },
     "wof:country":"CU",
-    "wof:geomhash":"aed9c53ca0fda9ece362584b463c9509",
+    "wof:geomhash":"5a231f7cd9f60023a1016f597e167bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,5 +94,5 @@
     -77.55601999999998,
     21.1691
 ],
-  "geometry": {"coordinates":[-77.55601999999998,21.1691],"type":"Point"}
+  "geometry": {"coordinates":[-77.55602,21.1691],"type":"Point"}
 }
